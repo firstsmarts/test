@@ -22,7 +22,9 @@ const Post = (props) => {
                     p {
                         font-size: 14px;
                         color: #555;
+                        
                     }
+
                     `
                 }
             </style>
